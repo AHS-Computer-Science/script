@@ -4,3 +4,4 @@
 4. Open the one named "Windows PowerShell"
 5. Right click in the PowerShell window to paste
 6. Wait for the script to complete
+7. Sign out and sign back in
