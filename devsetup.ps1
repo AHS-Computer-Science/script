@@ -1,5 +1,5 @@
 ﻿$path = "C:/Users/$Env:UserName/AppData/Local/Programs/devenv"
-$version = "v21.4.0"
+$version = "v21.6.1"
 $download = "https://nodejs.org/dist/$version/node-$version-win-x64.zip"
 
 $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User") 
